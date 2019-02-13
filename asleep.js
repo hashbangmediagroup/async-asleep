@@ -1,7 +1,7 @@
-function asleep(time) {
+function asleep(time_ms) {
   return new Promise(
     resolve => {
-      setTimeout(resolve, ms);
+      setTimeout(resolve, time_ms);
     }
   );
 }
