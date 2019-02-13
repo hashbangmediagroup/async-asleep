@@ -1,6 +1,6 @@
 {
   "name": "async-asleep",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sleep in async functions",
   "main": "asleep.js",
   "scripts": {
