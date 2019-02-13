@@ -1,11 +1,13 @@
-# asleep
+# async-asleep
 
 Javascript has no sleep function. Asleep fixes that.
 
 ### usage
 
 ```javascript
-await asleep(500) // sleep for 500 milliseconds
+sleep = require('async-asleep');
+
+await sleep(500) // sleep for 500 milliseconds
 ```
 
 ## how does it work
