@@ -1,8 +1,16 @@
+[![NPM](https://nodei.co/npm/async-asleep.png)](https://npmjs.org/package/async-asleep)
+
 # async-asleep
 
 Javascript has no sleep function. Asleep fixes that.
 
 ## quick start
+
+### install
+
+```
+npm i -S async-asleep
+```
 
 ### usage
 
