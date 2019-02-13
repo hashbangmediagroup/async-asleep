@@ -1,0 +1,23 @@
+{
+  "name": "asleep",
+  "version": "1.0.0",
+  "description": "Sleep in async functions",
+  "main": "asleep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashbangmediagroup/asleep.git"
+  },
+  "keywords": [
+    "javascript",
+    "sleep"
+  ],
+  "author": "Richard Fairthorne <richard.fairthorne@hashbang.info>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hashbangmediagroup/asleep/issues"
+  },
+  "homepage": "https://github.com/hashbangmediagroup/asleep#readme"
+}
