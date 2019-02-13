@@ -7,4 +7,4 @@ function asleep(time) {
 }
 
 module.exports = asleep;
-export default asleep;
+// export default asleep;
