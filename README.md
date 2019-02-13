@@ -2,6 +2,8 @@
 
 Javascript has no sleep function. Asleep fixes that.
 
+## quick start
+
 ### usage
 
 ```javascript
